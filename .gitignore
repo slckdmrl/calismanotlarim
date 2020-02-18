@@ -1,0 +1,3 @@
+# .gitignore dosyasının içeriği
+/public
+.DS_Store
